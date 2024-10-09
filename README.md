@@ -184,6 +184,7 @@ initial:
 
 - This project uses [sprout](https://github.com/go-sprout/sprout) as a dependency, which contains hundreds of extremely useful functions for working with Go templates. In addition to our official functions, further enhancing your experience with our framework.
   Sproute: [Official Docs](https://docs.atom.codes/sprout)
+
   Kuma functions: [Read me](internal/functions)
   &nbsp;
 
